@@ -6,7 +6,8 @@ Dự án này nhằm phân tích **doanh số bán hàng tại quán cà phê** 
 - Thời gian trong ngày  
 - Ngày trong tuần  
 - Tháng/mùa vụ  
-- Phương thức thanh toán  
+- Phương thức thanh toán
+  
 **Mục tiêu chính** là tìm hiểu hành vi tiêu dùng của khách hàng, xác định mô hình bán hàng và phát hiện các yếu tố mùa vụ ảnh hưởng đến doanh thu.
 
 ---
