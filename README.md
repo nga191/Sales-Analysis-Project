@@ -24,10 +24,10 @@ Dự án này nhằm phân tích **doanh số bán hàng tại quán cà phê** 
 - **Tổng số đơn hàng**: 3,547  
 - **Giá trị trung bình đơn hàng (AOV)**: 31.65 $  
 - **Sản phẩm chủ lực**: Latte (26.88K $), Americano with Milk (24.75K $)  
-- **Ngày cao điểm**: Thứ Hai (17.36K $)  
+- **Ngày cao điểm**: Thứ Hai (17.36K $) 
 - **Giờ vàng**: 10h sáng & 16h chiều  
 - **Thanh toán**: 90.95% qua thẻ → xu hướng cashless  
-- **Tháng cao nhất**: Tháng 3 (15.89K $), Tháng 10 (13.89K $):contentReference[oaicite:2]{index=2}
+- **Tháng cao nhất**: Tháng 3 (15.89K $), Tháng 10 (13.89K $). 
 
 ---
 
