@@ -56,7 +56,8 @@ Dự án này nhằm phân tích **doanh số bán hàng tại quán cà phê** 
 ---
 
 ## 📷 Demo Dashboard
-![Dashboard Screenshot]()
+<img width="1619" height="920" alt="image" src="https://github.com/user-attachments/assets/0f617c78-e404-47da-baa7-10c887ade309" />
 
 
-* *  
+
+
