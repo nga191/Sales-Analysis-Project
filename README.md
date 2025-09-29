@@ -1,6 +1,6 @@
-# Coffee Sales Analysis Dashboard ☕
+# Báo cáo Phân tích doanh số bán hàng quán cà phê
 
-## 📌 Giới thiệu
+## Giới thiệu
 Dự án này nhằm phân tích **doanh số bán hàng tại quán cà phê** theo nhiều khía cạnh:  
 - Loại sản phẩm  
 - Thời gian trong ngày  
@@ -12,14 +12,14 @@ Dự án này nhằm phân tích **doanh số bán hàng tại quán cà phê** 
 
 ---
 
-## 📊 Dữ liệu
+## Dữ liệu
 - **Nguồn**: Bộ dữ liệu giao dịch quán cà phê (CSV) từ Kaggle.  
 - **Thời gian**: Một năm giao dịch, từ tháng 3 năm 2024 đến tháng 3 năm 2025.  
 - **Thành phần**: loại cà phê, doanh thu, giờ trong ngày, ngày trong tuần, tháng, phương thức thanh toán.
 
 ---
 
-## 🔑 KPI chính
+## KPI chính
 - **Tổng doanh thu**: 112.25K $.
 - **Tổng số đơn hàng**: 3,547. 
 - **Giá trị trung bình đơn hàng (AOV)**: 31.65 $.
@@ -31,7 +31,7 @@ Dự án này nhằm phân tích **doanh số bán hàng tại quán cà phê** 
 
 ---
 
-## 📈 Kết luận
+## Kết luận
 - Doanh thu tập trung mạnh vào một số sản phẩm chủ lực.  
 - Có sự ảnh hưởng rõ rệt của **mùa vụ** (Q1 & Q4 cao, Q2 thấp).  
 - Hành vi khách hàng: thích mua đầu tuần và vào giờ cao điểm.  
@@ -39,7 +39,7 @@ Dự án này nhằm phân tích **doanh số bán hàng tại quán cà phê** 
 
 ---
 
-## 🚀 Đề xuất
+## Đề xuất
 - Tiếp tục đầu tư marketing cho **Latte & Americano with Milk**.  
 - Khuyến mãi hoặc tái định vị **Espresso & Cortado**.  
 - Tập trung chiến dịch lớn vào **Tháng 3 & 10**, kích cầu cho **Tháng 4 & mùa hè**.  
@@ -48,14 +48,14 @@ Dự án này nhằm phân tích **doanh số bán hàng tại quán cà phê** 
 
 ---
 
-## 🛠️ Công cụ sử dụng
+## Công cụ sử dụng
 - **Tableau**: trực quan hóa dữ liệu.  
 - **Excel/CSV**: tiền xử lý dữ liệu.  
 - **GitHub**: lưu trữ & quản lý phiên bản.  
 
 ---
 
-## 📷 Demo Dashboard
+## Demo Dashboard
 <img width="1619" height="920" alt="image" src="https://github.com/user-attachments/assets/0f617c78-e404-47da-baa7-10c887ade309" />
 
 
